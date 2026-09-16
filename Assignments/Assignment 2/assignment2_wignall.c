@@ -16,7 +16,7 @@ int main() {
     int x;
     int n;
 
-    printf("Please enter an integer in hex: ");
+    printf("Please enter an integer: ");
     scanf("%i", &x);
 
     printf("\nPlease enter how many rotations: ");
